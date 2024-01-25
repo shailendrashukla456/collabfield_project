@@ -1,0 +1,18 @@
+current directory: /home/deepak/Desktop/work/deepak_sir_project/collabfield/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/home/deepak/.rvm/rubies/ruby-2.6.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/deepak/Desktop/work/deepak_sir_project/collabfield/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240125-8951-bq2syq sitelibdir\=./.gem.20240125-8951-bq2syq clean
+
+current directory: /home/deepak/Desktop/work/deepak_sir_project/collabfield/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240125-8951-bq2syq sitelibdir\=./.gem.20240125-8951-bq2syq
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/deepak/Desktop/work/deepak_sir_project/collabfield/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240125-8951-bq2syq sitelibdir\=./.gem.20240125-8951-bq2syq install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20240125-8951-bq2syq
+
+current directory: /home/deepak/Desktop/work/deepak_sir_project/collabfield/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240125-8951-bq2syq sitelibdir\=./.gem.20240125-8951-bq2syq clean
